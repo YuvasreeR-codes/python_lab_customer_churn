@@ -1,0 +1,15 @@
+mysql-connector-j-26.7.0/
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+hadoop/
+
+*.csv
+
+.vscode
+
+spark_output/
